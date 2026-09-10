@@ -1,0 +1,38 @@
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  margin-right: 76px;
+}
+
+.nav-list {
+  display: flex;
+  gap: 40px;
+}
+
+.nav-link {
+  display: block;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.address {
+  margin-left: auto;
+}
+
+.address-list {
+  display: flex;
+  gap: 40px;
+}
+
+.address-link {
+  display: block;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
